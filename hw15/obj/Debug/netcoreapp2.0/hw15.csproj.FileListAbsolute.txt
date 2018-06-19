@@ -1,0 +1,11 @@
+C:\Users\Beto Rangel\source\repos\hw15\hw15\bin\Debug\netcoreapp2.0\hw15.deps.json
+C:\Users\Beto Rangel\source\repos\hw15\hw15\bin\Debug\netcoreapp2.0\hw15.runtimeconfig.json
+C:\Users\Beto Rangel\source\repos\hw15\hw15\bin\Debug\netcoreapp2.0\hw15.runtimeconfig.dev.json
+C:\Users\Beto Rangel\source\repos\hw15\hw15\bin\Debug\netcoreapp2.0\hw15.dll
+C:\Users\Beto Rangel\source\repos\hw15\hw15\bin\Debug\netcoreapp2.0\hw15.pdb
+C:\Users\Beto Rangel\source\repos\hw15\hw15\obj\Debug\netcoreapp2.0\hw15.csprojAssemblyReference.cache
+C:\Users\Beto Rangel\source\repos\hw15\hw15\obj\Debug\netcoreapp2.0\hw15.csproj.CoreCompileInputs.cache
+C:\Users\Beto Rangel\source\repos\hw15\hw15\obj\Debug\netcoreapp2.0\hw15.AssemblyInfoInputs.cache
+C:\Users\Beto Rangel\source\repos\hw15\hw15\obj\Debug\netcoreapp2.0\hw15.AssemblyInfo.cs
+C:\Users\Beto Rangel\source\repos\hw15\hw15\obj\Debug\netcoreapp2.0\hw15.dll
+C:\Users\Beto Rangel\source\repos\hw15\hw15\obj\Debug\netcoreapp2.0\hw15.pdb
